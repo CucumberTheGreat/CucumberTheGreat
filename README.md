@@ -4,8 +4,6 @@ Third-year IT student (Software Engineering track) at Stamford International Uni
 
 **Currently looking for a Software Engineering internship in Bangkok.**
 
----
-
 #### 🔧 What I work with
 `Python` `JavaScript` `Java` `PHP` · `React` `Node.js` `REST APIs` · `PostgreSQL` `MySQL` `MongoDB` · `Selenium` `Test Automation` · `Git`
 
